@@ -13,5 +13,5 @@ repositories {
 }
 
 dependencies {
-    implementation 'cn.nukkit:nukkit:1.0-SNAPSHOT'
+    shadow 'cn.nukkit:nukkit:1.0-SNAPSHOT'
 }

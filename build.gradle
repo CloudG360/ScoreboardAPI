@@ -22,5 +22,5 @@ repositories {
 }
 
 dependencies {
-    shadow 'cn.nukkit:nukkit:1.0-SNAPSHOT'
+    shadow 'cn.powernukkitx:powernukkitx:1.19.80-r2'
 }
